@@ -28,3 +28,6 @@ Your stream should appear as "android_test" in ProjectRTC, so you can also use t
 ## Author
 
 - [Pierre Chabardes](mailto:pierre@chabardes.net)
+
+
+## Test update
